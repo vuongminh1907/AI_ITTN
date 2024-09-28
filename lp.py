@@ -3,7 +3,7 @@ import cv2
 import torch
 import math 
 import function.utils_rotate as utils_rotate
-from IPython.display import display
+#from IPython.display import display
 import os
 import time
 import argparse
